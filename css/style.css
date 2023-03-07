@@ -40,8 +40,8 @@ header h2{
 }
 
 section{
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 section h2, footer h2{
@@ -50,6 +50,16 @@ section h2, footer h2{
 
 section h3{
   color: #a77f83;
+}
+
+footer{
+ margin-left: 100px;
+ margin-right: 100px;
+}
+
+form{
+  width: 200px;
+  margin-bottom: 50px;
 }
 
 img{
